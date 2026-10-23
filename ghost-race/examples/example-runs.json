@@ -1,0 +1,22 @@
+{
+  "title": "Example runner (fictional)",
+  "runs": [
+    {"date": "2019-01-06", "distance_m": 1782, "time_s": 638, "hr": 132, "climb_m": 14, "indoor": false},
+    {"date": "2019-01-16", "distance_m": 5264, "time_s": 1886, "hr": 150, "climb_m": 31, "indoor": false},
+    {"date": "2019-02-06", "distance_m": 7478, "time_s": 3020, "hr": 138, "climb_m": 1, "indoor": false},
+    {"date": "2019-02-21", "distance_m": 9661, "time_s": 3532, "hr": 148, "climb_m": 23, "indoor": false},
+    {"date": "2019-05-17", "distance_m": 41578, "time_s": 15548, "hr": 163, "climb_m": 110, "indoor": false},
+    {"date": "2019-11-13", "distance_m": 19689, "time_s": 7010, "hr": 147, "climb_m": 337, "indoor": false},
+    {"date": "2020-07-20", "distance_m": 10891, "time_s": 3821, "hr": 152, "climb_m": 86, "indoor": false},
+    {"date": "2021-02-24", "distance_m": 4798, "time_s": 1593, "hr": 146, "climb_m": 10, "indoor": false},
+    {"date": "2021-09-10", "distance_m": 1499, "time_s": 423, "hr": 151, "climb_m": 4, "indoor": false},
+    {"date": "2022-02-11", "distance_m": 5090, "time_s": 1559, "hr": 157, "climb_m": 11, "indoor": false},
+    {"date": "2022-04-26", "distance_m": 8467, "time_s": 2925, "hr": 146, "climb_m": 52, "indoor": false},
+    {"date": "2023-02-02", "distance_m": 9868, "time_s": 3288, "hr": 152, "climb_m": 0, "indoor": true},
+    {"date": "2023-08-08", "distance_m": 4635, "time_s": 1414, "hr": 165, "climb_m": 2, "indoor": false},
+    {"date": "2024-01-09", "distance_m": 20959, "time_s": 7112, "hr": 150, "climb_m": 240, "indoor": false},
+    {"date": "2024-03-27", "distance_m": 1728, "time_s": 466, "hr": 159, "climb_m": 2, "indoor": false},
+    {"date": "2025-03-30", "distance_m": 4699, "time_s": 1487, "hr": 154, "climb_m": 16, "indoor": false},
+    {"date": "2025-06-18", "distance_m": 10956, "time_s": 3802, "hr": 138, "climb_m": 111, "indoor": false}
+  ]
+}
